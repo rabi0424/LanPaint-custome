@@ -225,7 +225,7 @@ KSAMPLER_NAMES = ["euler","euler_ancestral", "heun", "heunpp2","dpm_2", "dpm_2_a
                 "dpm_fast",  "dpmpp_sde", "dpmpp_sde_gpu",
                   "dpmpp_2m", "dpmpp_2m_sde", "dpmpp_2m_sde_gpu", "dpmpp_3m_sde", "dpmpp_3m_sde_gpu", "ddpm", 
                    "deis", "res_multistep", "res_multistep_ancestral", 
-                  "gradient_estimation",  "er_sde", "seeds_2", "seeds_3"]
+                  "gradient_estimation",  "er_sde", "seeds_2", "seeds_3", "res_2s"]
 
 class LanPaint_KSampler():
     @classmethod
